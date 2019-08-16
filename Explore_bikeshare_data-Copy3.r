@@ -11,6 +11,7 @@ head(chi)
 
 summary(chi)
 
+#import of library
 library('ggplot2')
 
 getwd()
