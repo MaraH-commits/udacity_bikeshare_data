@@ -57,7 +57,7 @@ qplot(x = Birth.Year, data = subset(ny, !is.na(Gender))) +
     labs(y = 'Count of Customers')+
      theme(axis.text=element_text(size=8),
         axis.title=element_text(size=8),
-       title=element_text(size=8,face="bold"))
+       title=element_text(size=9,face="bold"))
 
 summary(ny)
 
