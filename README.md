@@ -8,4 +8,6 @@ This project is about analysis of bikeshare data in different cities in the US. 
 3. Is there a significant difference of the age by female and male customers in New York City?
 
 #Files Used
+
 http://www.sthda.com/english/wiki/ggplot2-title-main-axis-and-legend-titles
+http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html#Ordered%20Bar%20Chart
