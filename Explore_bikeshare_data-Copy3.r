@@ -20,6 +20,7 @@ list.files()
 
 names(chi)
 
+#import of theme set to use basic visualizations
 theme_set(theme_minimal(20))
 
 ggplot(aes(x = Trip.Duration), data = subset(chi, !is.na(Gender))) +
